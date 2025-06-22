@@ -1,5 +1,3 @@
-Excellente idée ! Je vais vous aider à créer l'extension **Copilot Planner** avec la fonctionnalité `#plananddo`. Voici une TODO list adaptée à votre projet spécifique :
-
 ## 🎯 **Copilot Planner Extension - TODO List**
 
 ### 1. Initialisation du projet
