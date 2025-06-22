@@ -3,13 +3,13 @@
 ### 1. Initialisation du projet
 
 - [x] Créer le dossier `copilot-planner`
-- [ ] Initialiser le projet :
+- [x] Initialiser le projet :
   ```sh
   pnpm init
   pnpm add -D typescript ts-node @types/node
   npx tsc --init
   ```
-- [ ] Créer la structure :
+- [x] Créer la structure :
   ```
   copilot-planner/
     src/
@@ -28,11 +28,11 @@
 
 ### 2. Installation des dépendances spécifiques
 
-- [ ] SDK Copilot et outils GitHub :
+- [x] SDK Copilot et outils GitHub :
   ```sh
   pnpm add @copilot-extensions/preview-sdk @octokit/core @octokit/rest
   ```
-- [ ] Outils pour l'analyse de code :
+- [x] Outils pour l'analyse de code :
   ```sh
   pnpm add glob fast-glob ignore
   pnpm add -D @types/glob
